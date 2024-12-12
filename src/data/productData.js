@@ -27,8 +27,8 @@ export const products = [
     id: 4,
     name: "Wireless Mouse",
     brand: "ClickPro",
-    description: "https://i.pinimg.com/236x/ac/65/a5/ac65a581cb5b83062b9f3af05bf068fd.jpg",
+    description: "A computer mouse is a handheld pointing device used to interact with a computer's graphical user interface (GUI). It typically has the following features:",
     price: 29999,
-    image: "./images/mouse.jpg"
+    image: "https://i.pinimg.com/236x/ac/65/a5/ac65a581cb5b83062b9f3af05bf068fd.jpg"
   }
 ];

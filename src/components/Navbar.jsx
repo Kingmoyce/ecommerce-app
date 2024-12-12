@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container">
-        <Link className="navbar-brand" to="/">TechShop</Link>
+        <Link className="navbar-brand" to="/ecommerce-app">TechShop</Link>
         <button 
           className="navbar-toggler" 
           type="button" 
@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link className="nav-link" to="/">Products</Link>
+              <Link className="nav-link" to="/ecommerce-app">Products</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/cart">
