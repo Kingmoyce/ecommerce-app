@@ -11,7 +11,7 @@ export const products = [
     id: 2,
     name: "Gaming Monitor",
     brand: "TechVision",
-    description: "144Hz gaming monitor with HDR support",
+    description: "144Hz gaming monitor with HDR support.",
     price: 159999,
     image: "https://i.pinimg.com/236x/d0/5d/2a/d05d2ac39f93f8a0ed379a9229669b6c.jpg"
   },
